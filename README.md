@@ -13,7 +13,7 @@ To test the project and create the fatjar, javadocs, javasource packages:
 
 To run the project, build it first and navigate to target directory and execute:
 
-    java -jar sky-bet-test-1.0-SNAPSHOT-fat.jar
+    java -jar SkyBet-Tech-Test-1.0-SNAPSHOT-fat.jar
 
 The following indicates the program is now running:
 
